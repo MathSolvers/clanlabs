@@ -1,5 +1,5 @@
 /* SETTINGS START */
-const prefix = "!"
+const prefix = "-"
 const groupID = 5190629;
 const bot_token = process.env.botToken;
 const rblxCookie = process.env.rblxCookie;
@@ -9,7 +9,7 @@ const maxXP = 8;
 const xpAuditLogChannelID = "627996260653203466";
 const mainChatChannelID = "625442425221021726";
 const fireBaseURL = process.env.fireBaseURL;
-const xpName = "Honor";
+const xpName = "honor";
 /* SETTINGS END */
 
 /* PACKAGES START */
